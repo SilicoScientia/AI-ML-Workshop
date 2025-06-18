@@ -1,0 +1,14 @@
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Molecular docking and visualization
+openbabel-wheel>=3.1.1
+rdkit>=2022.09.1
+
+# Machine learning dependencies
+torch>=1.13.0
+torch-geometric
+networkx>=2.8.0
+lime

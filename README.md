@@ -37,7 +37,6 @@ AI-ML-Workshop/
 │   ├── vina.exe           # AutoDock Vina executable
 │   ├── 3ue4.pdb           # Example protein receptor
 │   ├── ligand.pdb         # Example ligand
-│   ├── config.txt         # Docking configuration
 │   └── Documentation files
 ├── ML/                    # Machine learning integration
 │   ├── train_gcn.py       # GCN model training

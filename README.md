@@ -1,6 +1,6 @@
 # Molecular Docking Workshop with AutoDock Vina and Machine Learning
 
-<a href="https://colab.research.google.com/drive/1UhtkvglAFv1-NmEuX4XwiNIDB1EW2vmk#scrollTo=RXchmRP3Ad38" target="_blank">Open in Google Colab</a>
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UhtkvglAFv1-NmEuX4XwiNIDB1EW2vmk#scrollTo=RXchmRP3Ad38)
 
 A comprehensive workshop on molecular docking using AutoDock Vina integrated with machine learning techniques for binding energy prediction.
 

@@ -47,7 +47,9 @@ AI-ML-Workshop/
 │   ├── Protein/           # Protein files
 │   ├── Ligands_docking/   # Training dataset (20 ligands)
 │   └── Ligands_prediction/ # Prediction dataset (188 ligands)
+├── Workshop_sample_results.zip 
 └── README.md
+
 ```
 
 ## Documentation

@@ -45,7 +45,7 @@ AI-ML-Workshop/
 │   ├── predict_gcn.py     # Binding energy prediction
 │   ├── requirements.txt   # Python dependencies
 │   ├── Protein/           # Protein files
-│   ├── Ligands_docking/   # Training dataset (30 ligands)
+│   ├── Ligands_docking/   # Training dataset (20 ligands)
 │   └── Ligands_prediction/ # Prediction dataset (188 ligands)
 └── README.md
 ```

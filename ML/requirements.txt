@@ -11,3 +11,4 @@ torch-geometric
 networkx>=2.8.0
 lime
 admet-ai
+shap

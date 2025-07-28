@@ -1,0 +1,16 @@
+receptor= ACE_pro_new.pdbqt
+ligand= IBP_lig.pdbqt
+
+
+center_x = 26.642
+center_y = 33.105
+center_z = 200.231
+
+size_x = 40              
+size_y = 40
+size_z = 40
+
+out=outputnew.txt
+log=log.txt
+
+num_modes = 10

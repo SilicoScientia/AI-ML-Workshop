@@ -1,0 +1,32 @@
+CRYST1   98.650  204.990  221.960  90.00  90.00  90.00 I 2 2 2      16
+HETATM    1  C1  IBP A 701      27.431  30.874 203.025  1.00 28.39      K    C  
+HETATM    2  O1  IBP A 701      26.296  30.252 203.207  1.00 28.34      K    O  
+HETATM    3  C2  IBP A 701      26.203  35.794 198.764  1.00 28.16      K    C  
+HETATM    4  O2  IBP A 701      28.416  30.312 202.559  1.00 29.49      K    O  
+HETATM    5  C3  IBP A 701      26.008  35.060 197.431  1.00 29.23      K    C  
+HETATM    6  C4  IBP A 701      26.424  35.959 196.274  1.00 28.68      K    C  
+HETATM    7  C5  IBP A 701      24.569  34.635 197.244  1.00 27.70      K    C  
+HETATM    8  C6  IBP A 701      27.418  32.330 203.466  1.00 27.80      K    C  
+HETATM    9  C7  IBP A 701      28.716  32.701 204.189  1.00 27.34      K    C  
+HETATM   10  C8  IBP A 701      27.122  33.217 202.233  1.00 27.58      K    C  
+HETATM   11  C9  IBP A 701      25.823  33.737 202.024  1.00 27.05      K    C  
+HETATM   12  C10 IBP A 701      25.531  34.561 200.908  1.00 27.45      K    C  
+HETATM   13  C11 IBP A 701      26.528  34.899 199.955  1.00 28.26      K    C  
+HETATM   14  C12 IBP A 701      27.822  34.380 200.162  1.00 28.22      K    C  
+HETATM   15  C13 IBP A 701      28.116  33.554 201.279  1.00 27.77      K    C  
+CONECT    1    2    4    8
+CONECT    2    1
+CONECT    3    5   13
+CONECT    4    1
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5
+CONECT    8    1    9   10
+CONECT    9    8
+CONECT   10    8   11   15
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13    3   12   14
+CONECT   14   13   15
+CONECT   15   10   14
+END
